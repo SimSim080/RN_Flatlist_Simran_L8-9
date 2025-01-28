@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
 } from "react-native";
 import colors from "../styles/colors";
+
 import defaultStyles from "../styles/defaultStyles";
 
 export default function Index() {
